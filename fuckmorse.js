@@ -7,12 +7,12 @@ const jsFuck = require("./jsfuck.js");
 const repl = require("repl");
 
 const map = {
-  "(": "0",
-  ")": "1",
-  "[": "2",
-  "]": "3",
-  "+": "4",
-  "!": "5",
+  "(": "a",
+  ")": "b",
+  "[": "c",
+  "]": "d",
+  "+": "e",
+  "!": "f",
 };
 
 function compile(input) {
