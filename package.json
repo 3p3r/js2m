@@ -1,29 +1,29 @@
 {
-  "name": "jsfuck",
-  "version": "0.5.0",
-  "description": "Write any JavaScript with just 6 characters: []()!+",
+  "name": "js2m",
+  "version": "0.0.1",
+  "description": "Write any JavaScript with morse code!",
   "main": "jsfuck.js",
   "bin": "fuckmorse.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aemkei/jsfuck.git"
+    "url": "git://github.com/3p3r/js2m.git"
   },
   "keywords": [
     "esoteric",
     "obfuscation"
   ],
   "author": {
-    "name": "Martin Kleppe",
-    "url": "https://github.com/aemkei"
+    "name": "Sepehr Laal",
+    "url": "https://sepehrlaal.com/"
   },
   "licenses": [
     {
       "type": "WTFPL",
-      "url": "https://raw.github.com/aemkei/jsfuck/master/LICENSE.txt"
+      "url": "https://raw.github.com/3p3r/js2m/master/LICENSE.txt"
     }
   ],
   "bugs": {
-    "url": "https://github.com/aemkei/jsfuck/issues"
+    "url": "https://github.com/3p3r/js2m/issues"
   },
   "scripts": {
     "start": "grunt default watch"
